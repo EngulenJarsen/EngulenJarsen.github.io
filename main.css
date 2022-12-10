@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: chocolate;
+
+}
+
+.header{
+    margin: 0;
+    width: 100%;
+    background-color: yellow;
+}
+
+.header h1{
+    margin: 0;
+    
+}
+
+.footer{
+    margin: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: yellow;
+    position: absolute;
+}
+
+.footer p{
+    margin: 0;
+    font-size: 15px;
+    text-align: center;
+}
+
+
